@@ -1,2 +1,2 @@
-# currency
-php program to convert ugx to dollar
+#PHP SOURCE CODE  
+Program to convert UGX into US dollar
